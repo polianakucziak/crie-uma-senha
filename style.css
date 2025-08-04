@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+:root{
+     --branco:white;
+     --cor-de-fundo:#06062b;
+     --fundo-senha:#0a163c;
+     --fundo-texto:#0a163c;
+     --borda:#06062b;
+     --fonte-principal:'Embed code';
+}
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+}
+.conteudo-titulo{
+    text-align: center;
+}
+*{
+    font-weight: 400;
+}
+.conteudo-senha{
+    margin-top: 80px;
+    background-color: var(--fundo-senha);
+    padding: 24px;
+    border-bottom: 6px solid var(--borda);
+}
