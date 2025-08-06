@@ -45,3 +45,10 @@ img{
 #campo-senha:focus{
     outline: none;
 }
+.parametro{
+    background-color: var(--fundo-texto);
+    border: 2px solid var(--branco);
+    margin-top: 32px;
+    padding: 24px;
+
+}
