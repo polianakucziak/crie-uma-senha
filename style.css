@@ -39,8 +39,8 @@ body{
     font-size: 24px;
 }
 img{
-    width: 10%;
-    height: 10%;
+    width: 8%;
+    height: 8%;
 }
 #campo-senha:focus{
     outline: none;
