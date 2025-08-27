@@ -88,3 +88,8 @@ img{
 label{
     font-size: 20px;
 }
+@media screen and (min-width: 768px) {
+    .parametro-coluna-senha{
+        flex-direction: row;
+    }
+}    
