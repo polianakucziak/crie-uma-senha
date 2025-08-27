@@ -71,3 +71,7 @@ img{
     display: flex;
     justify-content: center;
 }
+.parametro-senha-botao{
+    background-color: var(--fundo-texto);
+    
+}
