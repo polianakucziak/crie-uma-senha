@@ -124,4 +124,7 @@ label{
     position: relative;
     bottom: 30px;
 }
-
+.parametro-senha-textos{
+    display: flex;
+    justify-content: space-between;
+}
